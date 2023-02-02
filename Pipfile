@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+tensorflow-recommenders = "*"
+numpy = "*"
+ipykernel = "*"
+pyspark = "*"
+tensorflow-datasets = "*"
+petastorm = "*"
+matplotlib = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
