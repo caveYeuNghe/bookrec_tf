@@ -8,9 +8,6 @@ tensorflow-recommenders = "*"
 numpy = "*"
 ipykernel = "*"
 pyspark = "*"
-tensorflow-datasets = "*"
-petastorm = "*"
-matplotlib = "*"
 
 [dev-packages]
 
